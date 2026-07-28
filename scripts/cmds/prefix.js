@@ -102,7 +102,7 @@ module.exports = {
 ┃ ☯️ GROUP  : 『 ${groupPrefix} 』
 ┃ 💠 TIME   : ${time}
 ┃ ⚠️ DATE   : ${date}
-┃ Ⓜ️ OWNER  : ${owner}
+┃ Ⓜ️ OWNER  : ${AʜᴇᴍD's SHISHIR}
 ╰━━━〔 ✨ ×͜× 〕━━━╯`
     );
   }
