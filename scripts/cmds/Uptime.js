@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "uptime",
     version: "3.0",
-    author: "〲MAMUNツ࿐ T.T　o.O",
+    author: "〲shishirツ࿐ T.T　o.O",
     countDown: 5,
     role: 0,
     shortDescription: "Pro uptime status",
@@ -33,7 +33,7 @@ module.exports = {
 
 🤖 Bot:  ♡┋ 𝙋𝙊𝙊𝙆𝙄𝙀 ᥫ᭡🎀🙂
 
-👑 Owner: 〲MAMUNツ࿐ T.T　o.O
+👑 Owner: 〲AʜᴇᴍD's SHISHIRツ࿐ T.T　o.O
 
 ⏰ Uptime: ${d}d ${h}h ${m}m ${s}s
 
