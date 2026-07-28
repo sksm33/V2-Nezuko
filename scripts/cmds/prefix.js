@@ -93,7 +93,7 @@ module.exports = {
     const time = moment().tz("Asia/Dhaka").format("hh:mm A");
     const date = moment().tz("Asia/Dhaka").format("DD MMM YYYY");
 
-    const owner = global.GoatBot.config.adminName || "MAMUN";
+    const owner = global.GoatBot.config.adminName || "shishir";
 
     return message.reply(
 `╭━━━〔 PREFIX 〕━━━╮
@@ -102,7 +102,7 @@ module.exports = {
 ┃ ☯️ GROUP  : 『 ${groupPrefix} 』
 ┃ 💠 TIME   : ${time}
 ┃ ⚠️ DATE   : ${date}
-┃ Ⓜ️ OWNER  : ${AʜᴇᴍD's SHISHIR}
+┃ Ⓜ️ OWNER  : ${ SHISHIR}
 ╰━━━〔 ✨ ×͜× 〕━━━╯`
     );
   }
